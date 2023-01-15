@@ -1,0 +1,22 @@
+.caixa{
+    
+    height: 500px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: white;
+    overflow: hidden;
+    border-radius: 15px;
+}
+.caixa1{
+    background-color: white;
+    height: auto;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: black;
+}
+
+.imagem{
+    height: 500px;
+}
